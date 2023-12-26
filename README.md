@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Rosen
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on front end and my start in the IT field
 - 📫 How to reach me: rosen.valev@gmail.com
 
 
