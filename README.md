@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Rosen
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React & Angular
 - 📫 How to reach me: rosen.valev@gmail.com
 
 
